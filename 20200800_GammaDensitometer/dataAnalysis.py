@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import lib.dataRefinement as dr
+import evanLib.dataRefinement as dr
 
 rawdataDir = "/home/yk/research/20200800_GammaDensitometer/rawdata/"
 plt.rc('font', size=22, weight='bold')
